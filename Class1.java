@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Neil Cleare Jr
  */
 
 public class Class1 {
