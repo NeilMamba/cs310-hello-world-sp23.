@@ -1,6 +1,7 @@
 /**
  *
  * @author Neil Cleare Jr
+* @version 3.0
  */
 
 public class Class2 {
