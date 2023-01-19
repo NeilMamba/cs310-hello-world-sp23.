@@ -19,9 +19,12 @@ public class HelloWorld {
     private void f2() {
         // 
     }
-
+   
     private void f3() {
         // hotfix
     }
 
+    private void f4() {
+        // v1.0
+    }
 }
